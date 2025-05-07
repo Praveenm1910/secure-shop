@@ -2,7 +2,7 @@
 
 ## Project Info
 
-**URL**: 
+**URL**: https://github.com/Praveenm1910/secure-shop.git
 
 ---
 
@@ -18,4 +18,4 @@ If you want to work locally using your own IDE (e.g., **VS Code**), follow these
 
 1. **Clone the Repository:**
    ```bash
-   git clone 
+   git clone https://github.com/Praveenm1910/secure-shop.git
